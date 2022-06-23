@@ -1,0 +1,6 @@
+subdirs = [
+    "external/*",
+    "tools/*",
+    "services/*",
+    "build"
+]

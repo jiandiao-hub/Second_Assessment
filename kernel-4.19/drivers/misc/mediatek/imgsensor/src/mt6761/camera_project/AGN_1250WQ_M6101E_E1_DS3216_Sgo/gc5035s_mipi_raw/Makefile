@@ -1,0 +1,1 @@
+obj-y += gc5035smipi_Sensor.o
